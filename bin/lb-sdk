@@ -77,6 +77,8 @@ if (!argv['q']) {
   console.log(chalk.green('*                      Miroslav Bajtos\' <miroslav@strongloop.com>                        *'));
   console.log(chalk.green('*                   https://github.com/strongloop/loopback-sdk-angular                   *'));
   console.log(chalk.green('*                                                                                        *'));
+  console.log(chalk.green('*                            STUPID GEOCODE FIX BY Tigran Baluyan                        *'));
+  console.log(chalk.green('*                                                                                        *'));
   console.log(chalk.green('=========================================================================================='));
   
   console.log('\n\THE MAGIC IS ABOUT TO HAPPEN ...\n\n');
